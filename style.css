@@ -47,21 +47,23 @@ h1{
 }
 .about-section{
     display: flex;
+    background-image: url(image/Frame\ 57.jpg);
+      background-repeat: no-repeat;
 }
 .about-img{
     width: 50%;
 }
 .about-img img{
-    height: 90%;
+    height: 100%;
     margin-left: 20%;
     margin-top: 7%;
 }
 .about-txt{
-    background-image: url(image/Frame\ 57.jpg);
-    background-repeat: no-repeat;
+    
+  
     width: 50%;
     margin-top: 10%;
-    margin-left: 15%;
+    margin-left: 25%;
     margin-right: 15%;
 }
 .about-txt p{
